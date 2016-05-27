@@ -1,5 +1,5 @@
 [![Join the chat at https://gitter.im/angular/react-native-renderer](https://badges.gitter.im/angular/react-native-renderer.svg)](https://gitter.im/angular/react-native-renderer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://travis-ci.org/angular/react-native-renderer.svg?branch=master)](https://travis-ci.org/angular/react-native-renderer)
+[![Build Status](https://travis-ci.org/rynomster/react-native-renderer.svg?branch=master)](https://travis-ci.org/rynomster/react-native-renderer)
 
 # angular2-react-native
 
