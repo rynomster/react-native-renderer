@@ -1,6 +1,6 @@
 {
-  "name": "angular2-react-native",
-  "version": "0.0.1-alpha.8",
+  "name": "react-native-renderer",
+  "version": "0.0.1-alpha.8-1",
   "description": "A React Native renderer for Angular 2",
   "scripts": {
     "test": "gulp test.browser/ci",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angular/react-native-renderer.git"
+    "url": "git+https://github.com/rynomster/react-native-renderer.git"
   },
   "keywords": [
     "Angular2",
@@ -21,9 +21,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angular/react-native-renderer/issues"
+    "url": "https://github.com/rynomster/react-native-renderer/issues"
   },
-  "homepage": "https://github.com/angular/react-native-renderer/",
+  "homepage": "https://github.com/rynomster/react-native-renderer/",
   "devDependencies": {
     "del": "^1.2.0",
     "glob": "^4.0.6",
